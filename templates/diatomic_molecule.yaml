@@ -29,4 +29,3 @@ spec:
       artifacts:
       - name: geometry
         path: /app/molecule.json
-Collapse
